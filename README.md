@@ -6,10 +6,10 @@ Drag and Drop with Local Storage
 This project demonstrates a simple drag-and-drop interface with persistent data storage using localStorage. Users can add items to boxes, drag items between boxes, and delete items. The state of the boxes is saved in localStorage, ensuring that the data persists across page reloads.
 
 # Features
-Add Items: Enter text in the input field and click "Add" to create a new draggable item.
-Drag and Drop: Drag items between different boxes.
-Delete Items: Click the "x" next to any item to delete it.
-Persistent Storage: The state of the boxes is saved in localStorage, preserving the items even after the page is reloaded.
+### Add Items: Enter text in the input field and click "Add" to create a new draggable item.
+### Drag and Drop: Drag items between different boxes.
+###  Delete Items: Click the "x" next to any item to delete it.
+###  Persistent Storage: The state of the boxes is saved in localStorage, preserving the items even after the page is reloaded.
 Usage
 Add an Item:
 
